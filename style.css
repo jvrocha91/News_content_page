@@ -1,0 +1,83 @@
+body{
+    font-family: "Open Sans";
+    color: #555;
+}
+
+
+
+.top-bar {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    border-bottom: 10px solid rgb(225, 148, 6);
+    
+}
+
+.container{
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+
+.titulo{
+    text-align: center;
+    font-size: 60px;
+    line-height: 68px;
+    color: #111;
+  
+}
+
+.subtitulo{
+    font-weight: normal;
+    color: #555;
+    font-size: 20px;
+   
+
+}
+
+.autor{
+    font-weight: bold;
+    font-size: 0.8em;
+    
+}
+
+.social-icons{
+    margin-top: 10px;
+}
+
+.social-icon{
+    width: 20px;
+    padding: 10px 10px 10px 0;
+
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
+
+article{
+    margin: auto;
+    font-size: 20px;
+    padding: 40px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.key-letter{
+    font-weight: bold;
+    color: rgb(225, 148, 6);
+}
+
+footer{
+    background-color: #333;
+    height: 100px;
+}
+
